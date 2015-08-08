@@ -32,7 +32,7 @@ if ( isset($_POST["submit"]) ) {
         echo "<html><head><link rel='stylesheet' href='style.css'></head><body>
 
                <a href='index.html'  style='position: absolute;top: 13%;right: 27%; left:60%; z-index: 3;'> <button id='btn1'>Upload new File</button></a>
-              <div style='position: relative;left: 20%;top: 52%;' class='first'><table class='table' border='1'>\n\n";
+              <div style='position: relative;left: 20%;top: 52.5%;' class='first'><table class='table' border='1'>\n\n";
 
         $i=0;
         $data=array();
